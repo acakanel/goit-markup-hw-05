@@ -487,12 +487,12 @@ a {
   color: #ffffff;
 }
 
-.footer-mail-form {
+.footer-form-mail-form {
   display: flex;
   gap: 24px;
 }
 
-.footer-mail-input {
+.footer-form-mail-input {
   width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
@@ -506,11 +506,11 @@ a {
   color: #ffffff;
 }
 
-.footer-mail-input::placeholder {
+.footer-form-mail-input::placeholder {
   color: #ffffff;
 }
 
-.footer-mail-button {
+.footer-form-mail-button {
   min-width: 165px;
   height: 40px;
   display: flex;
@@ -528,7 +528,7 @@ a {
   border-radius: 4px;
 }
 
-.footer-mail-svg {
+.footer-form-mail-svg {
   margin-left: 16px;
 }
 
