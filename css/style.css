@@ -487,7 +487,7 @@ a {
   color: #ffffff;
 }
 
-.footer-form-mail-form {
+.footer-form-mail {
   display: flex;
   gap: 24px;
 }
@@ -699,7 +699,7 @@ a {
   color: #4d5ae5;
 }
 
-.modal-button {
+.modal-form-button {
   display: block;
   min-width: 169px;
   height: 56px;
